@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("This is just a string one");
 		System.out.println("This is just a string two");
 		System.out.println("This is just a string three");
+		System.out.println("This is just a string FOUR");
 	}
 	
 }
